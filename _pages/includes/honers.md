@@ -1,7 +1,7 @@
 # 🤖 Current Research Project
-**Motivation.** In current Reinforcement Learning with Verifiable Rewards (RLVR) tasks, RL has not fully showcased its strengths for LLMs.
+**Motivation.** We hypothesize that the current RLVR setting is constrained by limited exploration.
 
-**Ongoing.** (1) Conducting controlled experiments to reveal the limitations of today’s RL fine-tuning setups for LLMs; (2) analyzing the observed failure modes to introduce a new RL paradigm for LLMs.
+**Ongoing.** We are developing a new fine-tuning algorithm that augments RLVR with an SFT phase to encourage exploration.
 
 
 # 🎖 Awards
